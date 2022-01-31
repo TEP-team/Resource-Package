@@ -1,2 +1,2 @@
-# TEP-s-Resource-Package
-Resources for Travel Earth Plan
+# TEP's Resource Package
+Resources for Travel Earth Plan.
