@@ -1,7 +1,7 @@
 name: Pack
 on:
   push:
-    branches: [main]
+    branches: [lib]
   workflow_dispatch:
 env:
   BUILD: TEP's Resource Package
