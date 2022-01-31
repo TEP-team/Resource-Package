@@ -1,0 +1,11 @@
+{
+    "music.on_my_way": {
+        "category": "player",
+        "sounds": [
+            {
+                "name": "customnpcs:music/on_my_way",
+                "stream": true
+            }
+        ]
+    }
+}
